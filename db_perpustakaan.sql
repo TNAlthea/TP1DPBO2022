@@ -39,8 +39,8 @@ CREATE TABLE `perpustakaan` (
 --
 
 INSERT INTO `perpustakaan` (`id`, `nama`, `angka`,  `foto`) VALUES
-(1, 'programming', '20', LOAD_FILE('D:/UPI/Sem 4/DPBO/code/LAT/6')),
-(2, 'basis data', '30', LOAD_FILE('D:/UPI/Sem 4/DPBO/code/LAT/6'));
+(1, 'programming', '20', LOAD_FILE('D:/UPI/Sem 4/DPBO/code/TP/1/test.jpeg')),
+(2, 'basis data', '30', LOAD_FILE('D:/UPI/Sem 4/DPBO/code/TP/1/test.jpeg'));
 
 --
 -- Indexes for dumped tables
